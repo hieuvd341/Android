@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Student Management App</string>
+    <string name="add_new">Thêm</string>
+    <string name="student_name">Họ và tên</string>
+    <string name="student_id">Mã số sinh viên</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="remove">Xóa</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="update">Cập nhật</string>
+    <string name="add_new_student">Thêm thông tin sinh viên</string>
+    <string name="edit_information">Cập nhật thông tin sinh viên</string>
+    <string name="remove_student"> Xóa thông tin sinh viên </string>
+    <string name="remove_student_confirm"> Bạn có chắc chắn muốn xóa thông tin sinh viên này không? </string>
+</resources>
